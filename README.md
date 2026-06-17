@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maksym Jagodzinski / Maksym Jagodzinski
+# Maksym Jagodziński
 
 ### Junior Fullstack Developer · DevOps · Cybersecurity
 
