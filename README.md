@@ -16,9 +16,9 @@
 
 ## 👋 About me / O mnie
 
-**EN** — Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, automate workflows with Python, and explore cybersecurity tools. Currently working as a Python Developer at Elmo S.A. where I ship real tools used daily in production.
+**EN** - Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, automate workflows with Python, and explore cybersecurity tools. Currently working as a Python Developer at Elmo S.A. where I ship real tools used daily in production.
 
-**PL** — Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, automatyzuję procesy w Pythonie i interesuję się cyberbezpieczeństwem. Aktualnie pracuję jako Python Developer w Elmo S.A., gdzie tworzę narzędzia używane na co dzień w produkcji.
+**PL** - Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, automatyzuję procesy w Pythonie i interesuję się cyberbezpieczeństwem. Aktualnie pracuję jako Python Developer w Elmo S.A., gdzie tworzę narzędzia używane na co dzień w produkcji.
 
 ---
 
@@ -65,16 +65,16 @@
 |---------|-------------|-------|
 | [**Hash Cracker**](https://github.com/nbtmaksym/hash-cracker) | Desktop tool for MD5/SHA1/SHA256 hash analysis — dictionary & brute-force attack with real-time progress GUI | Python · tkinter · hashlib · threading |
 | [**LearnUp**](https://github.com/nbtmaksym/strona-kursy-wspaprojekt) | E-learning platform with admin panel, star ratings, coupons, push notifications & JWT auth | FastAPI · SQLAlchemy · SQLite · JWT |
-| [**GameVault**](https://github.com/nbtmaksym/GameVault) | Digital game store backend — full REST API with JWT auth & PostgreSQL | FastAPI · PostgreSQL · SQLAlchemy |
-| **Swishboard** *(coming soon)* | Solo SaaS basketball training app — 200+ drills, custom dashboard widgets, EN/PL | Next.js · TypeScript · Supabase |
+| [**GameVault**](https://github.com/nbtmaksym/GameVault) | Digital game store backend - full REST API with JWT auth & PostgreSQL | FastAPI · PostgreSQL · SQLAlchemy |
+| **Swishboard** *(coming soon)* | Solo SaaS basketball training app - 200+ drills, custom dashboard widgets, EN/PL | Next.js · TypeScript · Supabase |
 | **ELMO CMR Generator** *(coming soon)* | Desktop tool for CMR document generation deployed at Elmo S.A. | Python · ReportLab · tkinter |
 
 ---
 
 ## 📜 Certifications / Certyfikaty
 
-- 🏅 **AWS Academy Cloud Foundations** — 2024
-- 🔐 **Cisco Cybersecurity Essentials** — March 2025
+- 🏅 **AWS Academy Cloud Foundations** - 2024
+- 🔐 **Cisco Cybersecurity Essentials** - March 2025
 
 ---
 
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-<i>Open to Junior Developer / Cybersecurity roles — Lublin & Remote</i>
+<i>Open to Junior Developer / Cybersecurity roles - Lublin & Remote</i>
 </div>
