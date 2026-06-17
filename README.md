@@ -16,9 +16,9 @@
 
 ## 👋 About me / O mnie
 
-**EN** - Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, automate workflows with Python, and explore cybersecurity tools. Currently working as a Python Developer at Elmo S.A. where I ship real tools used daily in production.
+**EN** - Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, automate workflows with Python, and explore cybersecurity tools. Currently working as a Technologist/Python Developer at Elmo S.A. where I ship real tools used daily in production.
 
-**PL** - Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, automatyzuję procesy w Pythonie i interesuję się cyberbezpieczeństwem. Aktualnie pracuję jako Python Developer w Elmo S.A., gdzie tworzę narzędzia używane na co dzień w produkcji.
+**PL** - Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, automatyzuję procesy w Pythonie i interesuję się cyberbezpieczeństwem. Aktualnie pracuję jako Technolog/Python Developer w Elmo S.A., gdzie tworzę narzędzia używane na co dzień w produkcji.
 
 ---
 
