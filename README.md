@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![Maksym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbtmaksym&show_icons=true&theme=tokyonight&hide_border=true)
+[![Maksym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbtmaksym&show_icons=true&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api?username=nbtmaksym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbtmaksym&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
