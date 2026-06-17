@@ -63,7 +63,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Hash Cracker**](https://github.com/nbtmaksym/hash-cracker) | Desktop tool for MD5/SHA1/SHA256 hash analysis — dictionary & brute-force attack with real-time progress GUI | Python · tkinter · hashlib · threading |
+| [**net-scanner**](https://github.com/nbtmaksym/net-scanner) | A Python tool for local network scanningm detects active hosts, open TCP ports, and service banners. Web-based GUI with real-time results via SSE. | Python · tkinter · hashlib · threading |
 | [**LearnUp**](https://github.com/nbtmaksym/strona-kursy-wspaprojekt) | E-learning platform with admin panel, star ratings, coupons, push notifications & JWT auth | FastAPI · SQLAlchemy · SQLite · JWT |
 | [**GameVault**](https://github.com/nbtmaksym/GameVault) | Digital game store backend - full REST API with JWT auth & PostgreSQL | FastAPI · PostgreSQL · SQLAlchemy |
 | **Swishboard** *(coming soon)* | Solo SaaS basketball training app - 200+ drills, custom dashboard widgets, EN/PL | Next.js · TypeScript · Supabase |
