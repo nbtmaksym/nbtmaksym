@@ -2,7 +2,7 @@
 
 # Maksym Jagodziński
 
-### Junior Fullstack Developer · DevOps · Cybersecurity
+### Fullstack Developer · Cybersecurity · Automation
 
 *Lublin, Poland*
 
@@ -16,20 +16,22 @@
 
 ## 👋 About me / O mnie
 
-**EN** - Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, automate workflows with Python, and explore cybersecurity tools. Currently working as a Technologist/Python Developer at Elmo S.A. where I ship real tools used daily in production.
+**EN** - Computer science student (Cybersecurity & Forensic Computing) at WSPA Lublin. I build fullstack web apps, write automation and desktop tools that run in real production, and explore cybersecurity and low-level programming. Currently a Technologist / Developer at Elmo S.A., where I ship tools used daily on the shop floor - from CNC file processing to steel-cutting optimization.
 
-**PL** - Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, automatyzuję procesy w Pythonie i interesuję się cyberbezpieczeństwem. Aktualnie pracuję jako Technolog/Python Developer w Elmo S.A., gdzie tworzę narzędzia używane na co dzień w produkcji.
+**PL** - Student informatyki (Cybersecurity & Forensic Computing) na WSPA w Lublinie. Buduję aplikacje webowe fullstack, piszę narzędzia automatyzujące i desktopowe działające w realnej produkcji, oraz zgłębiam cyberbezpieczeństwo i programowanie niskopoziomowe. Aktualnie Technolog / Developer w Elmo S.A., gdzie tworzę narzędzia używane codziennie na hali - od przetwarzania plików CNC po optymalizację rozkroju stali.
 
 ---
 
 ## 🚀 Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Frontend**
@@ -43,6 +45,7 @@
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
@@ -52,7 +55,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Cybersecurity**
+**AI & Cybersecurity**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -63,11 +67,15 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**net-scanner**](https://github.com/nbtmaksym/net-scanner) | A Python tool for local network scanningm detects active hosts, open TCP ports, and service banners. Web-based GUI with real-time results via SSE. | Python · tkinter · hashlib · threading |
-| [**LearnUp**](https://github.com/nbtmaksym/strona-kursy-wspaprojekt) | E-learning platform with admin panel, star ratings, coupons, push notifications & JWT auth | FastAPI · SQLAlchemy · SQLite · JWT |
+| [**net-scanner**](https://github.com/nbtmaksym/net-scanner) | Python tool for local network scanning - detects active hosts, open TCP ports, and service banners. Web GUI with real-time results via SSE. | Python · Flask · threading · SSE |
+| [**LearnUp**](https://github.com/nbtmaksym/strona-kursy-wspaprojekt) | E-learning platform with admin panel, star ratings, coupons, push notifications & JWT auth. Engineering thesis project. | FastAPI · SQLAlchemy · SQLite · JWT |
 | [**GameVault**](https://github.com/nbtmaksym/GameVault) | Digital game store backend - full REST API with JWT auth & PostgreSQL | FastAPI · PostgreSQL · SQLAlchemy |
-| **Swishboard** *(coming soon)* | Solo SaaS basketball training app - 200+ drills, custom dashboard widgets, EN/PL | Next.js · TypeScript · Supabase |
-| **ELMO CMR Generator** *(coming soon)* | Desktop tool for CMR document generation deployed at Elmo S.A. | Python · ReportLab · tkinter |
+| **NC Sorter** | Desktop tool deployed at Elmo S.A. - parses CNC (DSTV/NC) files and auto-sorts steel profiles into folders by type, distinguishing square vs rectangular tubes by cross-section | Python · tkinter · psutil |
+| [**Rozkrój** (steel-nesting-optimizer)](https://github.com/nbtmaksym/steel-nesting-optimizer) | Desktop steel cutting-stock optimizer, alternative to commercial tools like Lantek. Reads PL/EN/DE Excel BOMs, 1D bar optimization (bounded-knapsack DP + GRASP), 2D plate nesting (MaxRects), remnant-warehouse reuse, kerf/trim handling, Excel + printable cut-list export. tkinter GUI, 137-test suite, packaged as Windows .exe. *(showcase repo - source private)* | Python · NumPy · openpyxl · tkinter · PyInstaller |
+| **AppLock** | Windows security utility - blocks chosen apps behind a hashed password, silent tamper log, recovery key & emergency kill-switch, registry autostart | Python · psutil · hashlib · tkinter |
+| **Swishboard** *(in progress)* | Solo SaaS basketball training app - 200+ drills, custom dashboard widgets, EN/PL | Next.js · TypeScript · Supabase |
+| **ELMO CMR Generator** | Desktop tool generating CMR transport documents from order data, deployed at Elmo S.A. | Python · ReportLab · tkinter |
+| **Bezpański** *(in progress)* | Medieval RPG built from scratch in C++ - hand-written engine, no framework. A deep-dive into memory management, OOP and low-level design. | C++ |
 
 ---
 
